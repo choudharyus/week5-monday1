@@ -8,7 +8,7 @@
 ## Framing
 ( 5 minutes / 0:05 )
 
-Code Reviews are a common practice among many development teams and something that you as a future developer should become comfortable with. In this lesson, we'll go over the goals of a code review before conducting our own on Project 1.
+Code Reviews are a common practice among many development teams and something that you as a future developer should become comfortable with. In this lesson, we'll go over the goals of a code review before conducting our own on Project 2.
 
 ## Code Reviews
 ( 10 minutes / 0:15 )
